@@ -118,14 +118,6 @@ A modern school management system designed to manage:
 
 <br>
 
-<a href="#">
-<img src="https://img.shields.io/badge/🔗%20View%20Project-8B5CF6?style=for-the-badge">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github">
-</a>
-
 </td>
 
 <td width="50%">
@@ -149,14 +141,6 @@ An IoT-based safety system designed to improve mining-worker safety through:
 **Status:** 🎓 Academic Project
 
 <br>
-
-<a href="#">
-<img src="https://img.shields.io/badge/🔗%20View%20Project-8B5CF6?style=for-the-badge">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github">
-</a>
 
 </td>
 
