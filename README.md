@@ -145,63 +145,89 @@ real-world projects.
 
 </p>
 ---
-
 # 🚀 Featured Projects
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🏫 School Bee
+<h2>🏫 School Bee</h2>
 
-### School Management System
+<h3>School Management System</h3>
 
-A modern school management system designed to manage:
+<p>
+A modern school management system designed to simplify
+school administration and provide separate portals for
+Admin, Teachers and Parents.
+</p>
 
-- 👨‍🎓 Students
-- 👩‍🏫 Teachers
-- 📅 Timetable
-- 📊 Attendance
-- 💰 Fees
-- 📝 Examinations
+<p>
+👨‍🎓 Student Management<br>
+👩‍🏫 Teacher Management<br>
+📅 Timetable Management<br>
+📊 Attendance Tracking<br>
+💰 Fee Management<br>
+📝 Examination Management
+</p>
 
-**Tech Stack**
+<p>
+<strong>Tech Stack</strong><br><br>
 
-`React` `JavaScript` `HTML` `CSS` `Vite`
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
 
-**Status:** 🟡 In Development
+</p>
 
-<br>
+<p>
+<strong>Status:</strong> 🟡 In Development
+</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## ⛏️ Smart Helmet
+<h2>⛏️ Smart Helmet</h2>
 
-### Smart Helmet for Mining Workers
+<h3>Smart Helmet for Mining Workers</h3>
 
-An IoT-based safety system designed to improve mining-worker safety through:
+<p>
+An IoT-based safety monitoring system designed to improve
+mining-worker safety through real-time environmental
+monitoring and emergency alerts.
+</p>
 
-- ⛑️ Gas detection
-- 🌡️ Temperature monitoring
-- 💧 Humidity monitoring
-- 🚨 Emergency alerts
-- 📡 GSM communication
+<p>
+⛑️ Gas Detection<br>
+🌡️ Temperature Monitoring<br>
+💧 Humidity Monitoring<br>
+🚨 Emergency Alerts<br>
+📡 GSM Communication
+</p>
 
-**Tech Stack**
+<p>
+<strong>Tech Stack</strong><br><br>
 
-`ESP8266` `Sensors` `IoT` `GSM`
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/Sensors-FF9800?style=for-the-badge&logoColor=white">
 
-**Status:** 🎓 Academic Project
+</p>
 
-<br>
+<p>
+<strong>Status:</strong> 🎓 Academic Project
+</p>
 
 </td>
 
 </tr>
 </table>
+
+---
 ---
 
 ## 📬 Connect With Me
