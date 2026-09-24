@@ -146,3 +146,20 @@ An IoT-based safety system designed to improve mining-worker safety through:
 
 </tr>
 </table>
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=MandalapuSindhuPriya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=64FFDA&text_color=FFFFFF"
+  height="180"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandalapuSindhuPriya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF"
+  height="180"
+/>
+
+</div>
