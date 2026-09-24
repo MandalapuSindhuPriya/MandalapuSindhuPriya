@@ -160,3 +160,26 @@ An IoT-based safety system designed to improve mining-worker safety through:
 | 🌐 Web Development | Modern & Responsive Applications |
 
 </div>
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/MandalapuSindhuPriya">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+</div>
