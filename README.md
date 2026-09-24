@@ -204,20 +204,6 @@ An IoT-based safety system designed to improve mining-worker safety through:
 </table>
 ---
 
-## 🌱 Currently Learning
-
-<div align="center">
-
-| Technology | Focus |
-|------------|-------|
-| ⚛️ React | Advanced Components & State Management |
-| 🐍 Python | Advanced Python & Problem Solving |
-| 🤖 AI / ML | Exploring Artificial Intelligence |
-| 🌐 Web Development | Modern & Responsive Applications |
-
-</div>
----
-
 ## 📬 Connect With Me
 
 <div align="center">
