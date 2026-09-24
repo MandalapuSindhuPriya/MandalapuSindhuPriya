@@ -183,3 +183,39 @@ An IoT-based safety system designed to improve mining-worker safety through:
 ⭐ Thanks for visiting my profile!
 
 </div>
+---
+
+## 🚀 What I Love Building
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 🌐 Web Apps
+
+Building responsive and user-friendly  
+web applications with React.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🐍 Python Projects
+
+Creating practical applications  
+and solving problems with Python.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖 Smart Solutions
+
+Exploring AI, IoT and technology  
+to solve real-world problems.
+
+</td>
+
+</tr>
+</table>
