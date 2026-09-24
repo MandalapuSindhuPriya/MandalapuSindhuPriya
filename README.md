@@ -36,48 +36,83 @@ I love creating interactive websites and learning new technologies.
 
 <table>
 <tr>
-<td width="60%">
 
-I am a passionate developer with a strong interest in
-<b>Frontend Development</b> and <b>Python</b>.
+<td width="33%" valign="top">
 
-I enjoy creating clean, responsive and user-friendly
-applications while continuously learning new technologies.
+<h2>👩‍💻 About Me</h2>
 
-### 🎓 Education
+<p>
+I am a passionate and dedicated developer with a strong interest in
+<strong>Frontend Development</strong> and <strong>Python</strong>.
+</p>
 
-<b>B.Tech — Information Technology</b>
+<p>
+I enjoy building interactive, responsive and user-friendly web applications,
+solving real-world problems and continuously learning new technologies.
+</p>
 
-### 💻 What I Do
+<p>🎓 <strong>B.Tech (Information Technology)</strong></p>
 
-- 🌐 Frontend Development
-- ⚛️ React Applications
-- 🐍 Python Programming
-- 🎨 UI/UX Development
-- 📱 Responsive Web Design
+<p>📍 <strong>Hyderabad, India</strong></p>
+
+<p>💗 <strong>Open to Opportunities</strong></p>
+
+<p>🌱 <strong>Always Learning</strong></p>
 
 </td>
 
-<td width="40%" align="center">
+<td width="34%" valign="top">
 
-### 🌱 Currently Learning
+<h2>⚙️ Tech Stack</h2>
 
-⚛️ React
+<h3>Languages</h3>
 
-🐍 Advanced Python
+<p>
+🐍 Python &nbsp;&nbsp;
+🟨 JavaScript &nbsp;&nbsp;
+🌐 HTML &nbsp;&nbsp;
+🎨 CSS
+</p>
 
-🤖 AI / ML
+<h3>Frameworks &amp; Tools</h3>
 
-🌐 Modern Web Development
+<p>
+⚛️ React &nbsp;&nbsp;
+⚡ Vite &nbsp;&nbsp;
+🔀 Git &nbsp;&nbsp;
+🐙 GitHub
+</p>
+
+<p>
+🎨 Figma &nbsp;&nbsp;
+💻 VS Code
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h2>📖 Currently Learning</h2>
+
+<p>⚛️ <strong>React</strong></p>
+
+<p>🐍 <strong>Advanced Python</strong></p>
+
+<p>🤖 <strong>AI / ML</strong></p>
+
+<p>🌐 <strong>Modern Web Development</strong></p>
 
 <br>
 
-### 🎯 Goal
+<h2>🎯 Goal</h2>
 
-Build meaningful  
+<p>
+Build meaningful<br>
 real-world projects.
+</p>
 
 </td>
+
 </tr>
 </table>
 ---
