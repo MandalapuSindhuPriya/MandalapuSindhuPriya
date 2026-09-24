@@ -113,6 +113,7 @@ A modern school management system designed to manage:
 **Tech Stack**
 
 `React` `JavaScript` `HTML` `CSS` `Vite`
+
 **Status:** 🟡 In Development
 
 <br>
@@ -144,6 +145,7 @@ An IoT-based safety system designed to improve mining-worker safety through:
 **Tech Stack**
 
 `ESP8266` `Sensors` `IoT` `GSM`
+
 **Status:** 🎓 Academic Project
 
 <br>
