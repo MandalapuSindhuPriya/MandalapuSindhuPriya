@@ -59,3 +59,32 @@ real-world projects.
 </td>
 </tr>
 </table>
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
+
+### ⚛️ Frameworks & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,git,github,figma,vscode" />
+</p>
+
+### 🚀 Areas of Interest
+
+<p>
+
+<img src="https://img.shields.io/badge/Frontend%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/UI%2FUX-FF61F6?style=for-the-badge&logo=figma&logoColor=white">
+
+<img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+
+</p>
