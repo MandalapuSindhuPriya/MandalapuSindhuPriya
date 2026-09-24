@@ -88,3 +88,73 @@ real-world projects.
 <img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 
 </p>
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🏫 School Bee
+
+### School Management System
+
+A modern school management system designed to manage:
+
+- 👨‍🎓 Students
+- 👩‍🏫 Teachers
+- 📅 Timetable
+- 📊 Attendance
+- 💰 Fees
+- 📝 Examinations
+
+**Tech Stack**
+
+`React` `JavaScript` `HTML` `CSS` `Vite`
+
+<br>
+
+<a href="#">
+<img src="https://img.shields.io/badge/🔗%20View%20Project-8B5CF6?style=for-the-badge">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%">
+
+## ⛏️ Smart Helmet
+
+### Smart Helmet for Mining Workers
+
+An IoT-based safety system designed to improve mining-worker safety through:
+
+- ⛑️ Gas detection
+- 🌡️ Temperature monitoring
+- 💧 Humidity monitoring
+- 🚨 Emergency alerts
+- 📡 GSM communication
+
+**Tech Stack**
+
+`ESP8266` `Sensors` `IoT` `GSM`
+
+<br>
+
+<a href="#">
+<img src="https://img.shields.io/badge/🔗%20View%20Project-8B5CF6?style=for-the-badge">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+</tr>
+</table>
