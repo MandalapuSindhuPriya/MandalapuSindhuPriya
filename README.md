@@ -5,10 +5,31 @@
 ### 💻 Frontend Developer | 🐍 Python Developer
 
 <p>
-Building clean, responsive and user-friendly web applications.
+Building clean, responsive and user-friendly web applications.<br>
+I love creating interactive websites and learning new technologies.
+</p>
+
+<p>
+<a href="https://github.com/MandalapuSindhuPriya">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+&nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+&nbsp;
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+&nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 </p>
 
 </div>
+
+---
 ---
 
 ## 👩‍💻 About Me
